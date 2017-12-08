@@ -9,4 +9,3 @@ Public [homebrew tap](https://docs.brew.sh/Taps.html) for Codeship
 Then install any formula/casks. Ex:
 
 `$ brew cask install codeship/public/jet`
-
