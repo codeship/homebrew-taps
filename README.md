@@ -1,11 +1,9 @@
-# homebrew-public
+# homebrew-taps
 
-[![Codeship Status for codeship/homebrew-public](https://app.codeship.com/projects/14bf73f0-be85-0135-926e-72379a217d2f/status?branch=master)](https://app.codeship.com/projects/259901)
+[![Codeship Status for codeship/homebrew-taps](https://app.codeship.com/projects/14bf73f0-be85-0135-926e-72379a217d2f/status?branch=master)](https://app.codeship.com/projects/259901)
 
 Public [homebrew tap](https://docs.brew.sh/Taps.html) for Codeship
 
-`$ brew tap codeship/public`
+Example:
 
-Then install any formula/casks. Ex:
-
-`$ brew cask install codeship/public/jet`
+`$ brew cask install codeship/taps/jet`
