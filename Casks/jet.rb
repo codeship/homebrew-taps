@@ -1,5 +1,5 @@
 cask 'jet' do
-  version '2.2.0 '
+  version '2.2.0'
   sha256 '37258db18822b5f8e9b459eae8eb3e3ba5f5801eb674f917dd09a13582dbe3c3'
 
   # s3.amazonaws.com/codeship-jet-releases was verified as official when first introduced to the cask
