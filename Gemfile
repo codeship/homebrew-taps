@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rubocop', '~> 0.51.0', require: false
-gem 'rubocop-cask'
+ruby '2.5.8'
+
+gem 'rubocop', '~> 0.60.0', require: false
+gem 'rubocop-cask', '~> 0.23.0'
